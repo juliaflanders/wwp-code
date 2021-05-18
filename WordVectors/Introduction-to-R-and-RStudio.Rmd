@@ -161,7 +161,11 @@ We won't be covering all of these concepts directly, but we're including a full 
 + *Console*: the pane in RStudio that displays the code being run by R.
 + *Data Frame*: data frames are the R version of tabular data, like CSVs or TSVs, that can contain numerical and textual data, and be created and edited by code.
 + *Environment*: a coding environment is the context in which code is being run or executed, including all of the variables and the working directory for a machine—whether it is local or on a server.
+<<<<<<< Updated upstream
 + *Function*: functions are code that performs a specific task.
+=======
++ *Function*: a function is a named segment of code that can be called upon to perform a specific task.
+>>>>>>> Stashed changes
 + *Pipe*: a pipe is a small piece of code `%>%` that allows you to apply the sequence of multiple operations, in which the output of one operation is then fed into the next operation as its input.
 + *Programming language*: a programming language is a vocabulary and set of grammatical rules used to instruct computers to perform specific tasks.
 + *Project*: a project in R is a file that is associated with a working directory, meaning that it preserves the layout and files within your R environment and can be saved and re-opened in a new session.

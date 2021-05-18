@@ -43,7 +43,7 @@ library(lsa)
 ```{r}
 
 # Change "name_of_your_folder" to match the name of the folder with your corpus
-path2file <- "data/name_of_your_folder"
+path2file <- "data/humanist"
 fileList <- list.files(path2file,full.names = TRUE) 
 
 readTextFiles <- function(file) { # Remember that the code that defines functions must be run by putting your cursor at the beginning or end, or by selecting the whole section of code
